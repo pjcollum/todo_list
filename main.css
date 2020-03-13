@@ -96,6 +96,9 @@ input[type=text] {
     color: #fff;
     text-decoration: line-through;
   }
+  li{
+      text-align: center;
+  }
   
   
   
